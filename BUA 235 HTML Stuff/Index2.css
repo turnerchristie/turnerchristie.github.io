@@ -1,0 +1,25 @@
+h1 {color: darkblue; }
+h1 {font-size: 250%;
+font-weight: bold;}
+h2 {color: maroon; }
+h2 {font-size: 150%;
+font-style: italic }
+h2 { border-left: 10px solid maroon }
+
+body {
+	background: grey;
+	color: purple;
+	font-size: 18pt;
+}
+table, td, th {border: 1px solid black; border-collapse: collapse }
+body {font-family: 'Lobster Two', cursive; }
+
+li {border: 2px solid black }
+li {padding: 10px;
+margin: 5px;
+background: white }
+a {color:darkred;
+text-decoration: none;}
+a:hover {color: red}
+
+.special { color: forestgreen; }
