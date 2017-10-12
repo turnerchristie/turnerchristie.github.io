@@ -13,10 +13,11 @@ li {
 }
 
 h5 {
-	border: 5pt solid black;
+	border: 1pt solid black;
 	outline-style: solid;
-	padding: 25pt;
+	padding: 10pt;
 	margin: 25pt;
+	display: inline-block;
 }
 
 

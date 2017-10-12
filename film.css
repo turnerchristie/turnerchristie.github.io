@@ -5,3 +5,11 @@ body {
 
 body {font-family: 'Indie Flower', cursive;
 }
+
+h10 {
+	border: 1pt solid black;
+	outline-style: solid;
+	padding: 10pt;
+	margin: 25pt;
+	display: inline-block;
+}
