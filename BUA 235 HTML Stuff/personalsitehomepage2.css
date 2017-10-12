@@ -1,0 +1,23 @@
+h1 {font-family: 'Lobster Two', cursive; }
+
+body {
+	background: AliceBlue;
+	font-size: 18pt;
+}
+
+	
+
+li {
+	border: 2px black;
+	outline-color: black;
+}
+
+h5 {
+	border: 5pt solid black;
+	outline-style: solid;
+	padding: 25pt;
+	margin: 25pt;
+}
+
+
+
